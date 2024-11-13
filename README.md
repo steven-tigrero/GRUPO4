@@ -23,3 +23,9 @@ Recopila eventos clave del proyecto, diferenciando entre hitos obligatorios (com
 Es el proceso de identificar y documentar las relaciones lógicas entre actividades y hitos del proyecto. Cada actividad, excepto la inicial y final, se vincula con al menos un predecesor y un sucesor. Para lograr un cronograma realista, se pueden incluir adelantos o retrasos entre actividades. La secuenciación puede realizarse con software de gestión de proyectos o mediante métodos manuales o automatizados.
 6.3 Estimar los Recursos de las Actividades:
 Consiste en determinar el tipo y cantidad de materiales, personal, equipos o suministros necesarios para realizar cada actividad. Este proceso está estrechamente vinculado a la estimación de costos, ya que factores como la falta de experiencia local o la necesidad de conocimiento especializado pueden requerir consultores o capacitación adicional, lo que afecta los costos del proyecto.
+El proceso implica lo siguiente:
+6.4. Estimar la Duración de las Actividades
+Identificación de Recursos: Determinar qué recursos (humanos, materiales, financieros) se necesitarán para realizar cada actividad.
+Factores de Productividad: Considerar los factores que afectan la productividad, como el nivel de experiencia, las condiciones de trabajo y la disponibilidad de recursos.
+Métodos de Estimación: Aplicar técnicas como la estimación análoga (basada en proyectos anteriores), la estimación paramétrica (usando relaciones matemáticas), la estimación por tres valores (optimista, pesimista y más probable) y la estimación ascendente (detallada desde el nivel de actividad).
+Evaluación de Riesgos: Identificar y evaluar posibles riesgos que podrían afectar la duración, ajustando las estimaciones para reflejar la incertidumbre.
