@@ -21,3 +21,5 @@ Lista de hitos:
 Recopila eventos clave del proyecto, diferenciando entre hitos obligatorios (como los contractuales) y opcionales (basados ​​en información histórica).
 6.2 Secuenciar las actividades:
 Es el proceso de identificar y documentar las relaciones lógicas entre actividades y hitos del proyecto. Cada actividad, excepto la inicial y final, se vincula con al menos un predecesor y un sucesor. Para lograr un cronograma realista, se pueden incluir adelantos o retrasos entre actividades. La secuenciación puede realizarse con software de gestión de proyectos o mediante métodos manuales o automatizados.
+6.3 Estimar los Recursos de las Actividades:
+Consiste en determinar el tipo y cantidad de materiales, personal, equipos o suministros necesarios para realizar cada actividad. Este proceso está estrechamente vinculado a la estimación de costos, ya que factores como la falta de experiencia local o la necesidad de conocimiento especializado pueden requerir consultores o capacitación adicional, lo que afecta los costos del proyecto.
