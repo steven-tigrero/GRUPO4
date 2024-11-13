@@ -19,3 +19,5 @@ Atributos de la Actividad:
 Proporcionan información detallada sobre cada actividad, incluyendo identificadores, nombre, relaciones lógicas, predecesoras, sucesoras, restricciones, supuestos, requisitos de recursos y fechas. Además, especifican responsables, ubicación y tipo de actividad (esfuerzo discreto, nivelado o prorratado). Estos atributos son esenciales para desarrollar y organizar el cronograma del proyecto.
 Lista de hitos:
 Recopila eventos clave del proyecto, diferenciando entre hitos obligatorios (como los contractuales) y opcionales (basados ​​en información histórica).
+6.2 Secuenciar las actividades:
+Es el proceso de identificar y documentar las relaciones lógicas entre actividades y hitos del proyecto. Cada actividad, excepto la inicial y final, se vincula con al menos un predecesor y un sucesor. Para lograr un cronograma realista, se pueden incluir adelantos o retrasos entre actividades. La secuenciación puede realizarse con software de gestión de proyectos o mediante métodos manuales o automatizados.
